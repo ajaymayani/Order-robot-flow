@@ -1,0 +1,9 @@
+{
+    "Dividrootdivdivdivdivformdiv3input": {
+        "screenshot": ".images\\dividrootdivdivdivdivformdiv3input-screenshot.png",
+        "source": "https://robotsparebinindustries.com/#/robot-order",
+        "strategy": "xpath",
+        "type": "browser",
+        "value": "//div[@id='root']/div/div/div/div/form/div[3]/input"
+    }
+}
